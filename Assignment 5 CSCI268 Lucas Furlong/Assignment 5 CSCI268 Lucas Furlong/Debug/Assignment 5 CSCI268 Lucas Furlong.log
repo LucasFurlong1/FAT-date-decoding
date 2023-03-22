@@ -1,0 +1,4 @@
+﻿  Assembling program.asm...
+c:\Irvine\SmallWin.inc(11): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  LINK : C:\Users\Lucas Furlong\source\repos\Assignment 5 CSCI268 Lucas Furlong\Debug\Assignment 5 CSCI268 Lucas Furlong.exe not found or not built by the last incremental link; performing full link
+  Assignment 5 CSCI268 Lucas Furlong.vcxproj -> C:\Users\Lucas Furlong\source\repos\Assignment 5 CSCI268 Lucas Furlong\Debug\Assignment 5 CSCI268 Lucas Furlong.exe
